@@ -1,6 +1,6 @@
 {
   "name": "@tjmonsi/actor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Based on Surma and Paul Lewis Actor talk on the actor model",
   "main": "index.js",
   "scripts": {
